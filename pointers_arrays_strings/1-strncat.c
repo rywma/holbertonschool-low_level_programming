@@ -8,7 +8,7 @@
  *
  * Return:pointer to resulting string destination
  */
-char *_strncat(char *dest, char *src, int n);
+char *_strncat(char *dest, char *src, int n)
 {
 	int i = 0;
 	int j = 0;
