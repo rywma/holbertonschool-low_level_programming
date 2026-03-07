@@ -2,11 +2,11 @@
 
 /**
  * _strncat - concatenate strings using n bytes from src
- * @dest:destination
+ * @dest: destination
  * @src: source
  * @n: number of bytes
  *
- * Return:pointer to resulting string destination
+ * Return: pointer to resulting string destination
  */
 char *_strncat(char *dest, char *src, int n)
 {
