@@ -1,3 +1,5 @@
+#include "main.h"
+
 char *_memset(char *s, char b, unisgned int n)
 {
 	unsigned int i;
