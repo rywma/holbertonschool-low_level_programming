@@ -8,7 +8,7 @@
  *
  * Return: a pointer to the first occurrence of c, or NULL if not found
  */
-char *_strchr(char *s, charc)
+char *_strchr(char *s, char c)
 {
 	while(*s >= '\0')
 	{
