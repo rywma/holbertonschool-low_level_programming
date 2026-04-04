@@ -3,6 +3,7 @@
 
 /**
  * create_array - creates an array
+ * initialize array
  * @size: the size of the array 
  * @c: the char to initialize the array with
  *
